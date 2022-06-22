@@ -1,0 +1,133 @@
+
+/*global style
+______________________________________________*/
+
+body {
+  color:#343434;
+  background-color: #faf8eb;
+  margin: 0;
+  padding: 0;
+  font-family:'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  
+}
+
+img {
+  width: 300px;
+}
+
+a {
+  color:#e3e8eb;
+}
+a:hover {
+  text-decoration:none;
+}
+
+h1{
+  font-size: 100px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+
+h1, h2 {
+  font-family:'Caveat', cursive;
+  font-weight: 400;
+  margin: 0;
+  }
+
+.content-wrap {
+  width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+
+
+
+/*Profile
+______________________________________________*/
+header {
+  background-color:#314655 ;
+  color: #fdfeff;
+}
+
+
+
+
+
+
+/*Projects
+______________________________________________*/
+
+.projects {
+  background-color:#f3f3e2;
+}
+.projects a {
+  color:#314655;
+}
+.projects .btn {
+  color:#314655;
+  color: #f9f9f9;
+  background: #314655;
+  padding: 8px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+.projects .btn:hover {
+  background: rgba(49, 70, 85, 80%);
+
+}
+
+
+/*work
+______________________________________________*/
+
+.work {
+  background-color: #f2f5f7;
+}
+.work .btn {
+  color:#314655;
+  color: #f9f9f9;
+  background: #314655;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.work .btn:hover {
+  background: rgba(49, 70, 85, 80%);
+
+}
+/*Education
+______________________________________________*/
+
+.education {
+  background-color: #e3e8eb;
+}
+
+
+
+/*Contacts
+______________________________________________*/
+
+.contact {
+  background-color: #121A20;
+  color: #faf8eb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
